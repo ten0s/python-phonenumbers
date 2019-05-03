@@ -19,6 +19,12 @@ from ..util import u
 # limitations under the License.
 
 data = {
+ '9183278':{'en': 'Vodafone'},
+ '918328':{'en': 'Reliance Jio'},
+ '9183287':{'en': 'Vodafone'},
+ '918329':{'en': 'Reliance Jio'},
+ '91833':{'en': 'Vodafone'},
+ '918330':{'en': 'BSNL MOBILE'},
  '918331':{'en': 'BSNL MOBILE'},
  '918332':{'en': 'BSNL MOBILE'},
  '918333':{'en': 'BSNL MOBILE'},
