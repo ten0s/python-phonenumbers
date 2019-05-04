@@ -2397,6 +2397,8 @@ data = {
  '38066':{'en': 'Vodafone', 'uk': u('Vodafone \u0423\u043a\u0440\u0430\u0457\u043d\u0430')},
  '38067':{'en': 'Kyivstar', 'uk': u('\u041a\u0438\u0457\u0432\u0441\u0442\u0430\u0440')},
  '38068':{'en': 'Kyivstar', 'uk': u('\u041a\u0438\u0457\u0432\u0441\u0442\u0430\u0440')},
+ '38071':{'en': 'Phoenix'},
+ '38072':{'en': 'Phoenix'},
  '38073':{'en': 'lifecell', 'uk': 'lifecell'},
  '38091':{'en': 'TriMob', 'uk': u('\u0422\u0440\u0438\u041c\u043e\u0431')},
  '38092':{'en': 'PEOPLEnet', 'uk': 'PEOPLEnet'},
@@ -10017,6 +10019,4 @@ data = {
  '554899997':{'en': 'TIM'},
  '554899998':{'en': 'TIM'},
  '554998401':{'en': 'Brasil Telecom GSM'},
- '554998402':{'en': 'Brasil Telecom GSM'},
- '554998403':{'en': 'Brasil Telecom GSM'},
 }
