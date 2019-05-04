@@ -21,6 +21,8 @@
 38066|Vodafone
 38067|Kyivstar
 38068|Kyivstar
+38071|Phoenix
+38072|Phoenix
 38073|lifecell
 38091|TriMob
 38092|PEOPLEnet
