@@ -19,6 +19,7 @@ from ..util import u
 # limitations under the License.
 
 data = {
+ '918476':{'en': 'Idea'},
  '918477':{'en': 'Idea'},
  '918478':{'en': 'Idea'},
  '918479':{'en': 'Idea'},
