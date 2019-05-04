@@ -19,15 +19,6 @@ from ..util import u
 # limitations under the License.
 
 data = {
- '918280':{'en': 'BSNL MOBILE'},
- '918281':{'en': 'BSNL MOBILE'},
- '918282':{'en': 'Tata Docomo'},
- '918283':{'en': 'Airtel'},
- '918284':{'en': 'Airtel'},
- '918285':{'en': 'Aircel'},
- '918286':{'en': 'Aircel'},
- '918287':{'en': 'Reliance Jio'},
- '918288':{'en': 'Airtel'},
  '9182890':{'en': 'Airtel'},
  '9182898':{'en': 'BSNL MOBILE'},
  '918290':{'en': 'Airtel'},
