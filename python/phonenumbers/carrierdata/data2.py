@@ -19,17 +19,6 @@ from ..util import u
 # limitations under the License.
 
 data = {
- '918075':{'en': 'Reliance Jio'},
- '918076':{'en': 'Reliance Jio'},
- '918077':{'en': 'Reliance Jio'},
- '918078':{'en': 'BSNL MOBILE'},
- '9180786':{'en': 'Reliance Jio'},
- '9180790':{'en': 'Reliance Jio'},
- '9180794':{'en': 'Aircel'},
- '9180795':{'en': 'Idea'},
- '9180796':{'en': 'BSNL MOBILE'},
- '9180797':{'en': 'Idea'},
- '9180798':{'en': 'Idea'},
  '9180799':{'en': 'Idea'},
  '918080':{'en': 'Reliance Jio'},
  '918081':{'en': 'Reliance Jio'},

@@ -19,17 +19,6 @@ from ..util import u
 # limitations under the License.
 
 data = {
- '554998402':{'en': 'Brasil Telecom GSM'},
- '554998403':{'en': 'Brasil Telecom GSM'},
- '554998404':{'en': 'Brasil Telecom GSM'},
- '554998405':{'en': 'Brasil Telecom GSM'},
- '554998406':{'en': 'Brasil Telecom GSM'},
- '554998407':{'en': 'Brasil Telecom GSM'},
- '554998408':{'en': 'Brasil Telecom GSM'},
- '554998409':{'en': 'Brasil Telecom GSM'},
- '554998411':{'en': 'Brasil Telecom GSM'},
- '554998412':{'en': 'Brasil Telecom GSM'},
- '554998413':{'en': 'Brasil Telecom GSM'},
  '554998414':{'en': 'Brasil Telecom GSM'},
  '554998415':{'en': 'Brasil Telecom GSM'},
  '554998416':{'en': 'Brasil Telecom GSM'},
@@ -10019,4 +10008,15 @@ data = {
  '918072':{'en': 'Reliance Jio'},
  '918073':{'en': 'Reliance Jio'},
  '918074':{'en': 'Reliance Jio'},
+ '918075':{'en': 'Reliance Jio'},
+ '918076':{'en': 'Reliance Jio'},
+ '918077':{'en': 'Reliance Jio'},
+ '918078':{'en': 'BSNL MOBILE'},
+ '9180786':{'en': 'Reliance Jio'},
+ '9180790':{'en': 'Reliance Jio'},
+ '9180794':{'en': 'Aircel'},
+ '9180795':{'en': 'Idea'},
+ '9180796':{'en': 'BSNL MOBILE'},
+ '9180797':{'en': 'Idea'},
+ '9180798':{'en': 'Idea'},
 }

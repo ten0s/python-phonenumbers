@@ -7,7 +7,7 @@ Generated from java.util.Locale, generation info:
   java.vendor=Oracle Corporation
   os.name=Linux
   os.arch=amd64
-  os.version=4.18.0-17-generic
+  os.version=4.18.0-18-generic
 
 Auto-generated file, do not edit by hand.
 """
