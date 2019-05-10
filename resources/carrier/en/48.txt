@@ -19,7 +19,12 @@
 48531|Play
 48532|T-Mobile
 48533|Play
+48534|Play
 48535|Play
+48536|Play
+48537|Play
+48538|T-Mobile
+48539|T-Mobile
 4857|Play
 48600|T-Mobile
 48601|Plus
@@ -37,10 +42,20 @@
 48663|Plus
 48664|T-Mobile
 48665|Plus
+486660|T-Mobile
+486661|T-Mobile
+486662|T-Mobile
+486663|T-Mobile
+486664|T-Mobile
+486665|T-Mobile
 486666|Play
+486667|T-Mobile
+486668|T-Mobile
+486669|T-Mobile
 48667|Plus
 48668|T-Mobile
 48669|Plus
+486900|Play
 486901|Orange
 486902|Orange
 486903|Orange
@@ -48,6 +63,8 @@
 486905|Orange
 486906|Orange
 486907|CenterNet
+486908|Play
+486909|Play
 48691|Plus
 48692|T-Mobile
 48693|Plus
@@ -56,6 +73,7 @@
 48696|T-Mobile
 48697|Plus
 48698|T-Mobile
+4869901|AMD Telecom
 4869902|Cyfrowy Polsat
 4869903|Cyfrowy Polsat
 4869904|Cyfrowy Polsat
@@ -73,6 +91,7 @@
 4869927|Cyfrowy Polsat
 4869928|Cyfrowy Polsat
 4869929|Cyfrowy Polsat
+4869950|AMD Telecom
 4869961|Cyfrowy Polsat
 4869962|Cyfrowy Polsat
 4869963|Cyfrowy Polsat
@@ -92,6 +111,7 @@
 487205|CenterNet
 487206|CenterNet
 487207|CenterNet
+487208|Play
 487209|CenterNet
 48721|Plus
 48722|Plus
@@ -117,3 +137,17 @@
 487286|T-Mobile
 487287|T-Mobile
 487288|T-Mobile
+487289|T-Mobile
+487290|Play
+487291|Play
+487292|Lycamobile
+487293|Lycamobile
+487294|Lycamobile
+487295|Lycamobile
+487296|Lycamobile
+4872970|AMD Telecom
+48730|Play
+48731|Play
+48733|Play
+48790|Play
+4888|Play
