@@ -18,7 +18,9 @@
 9927|Tcell
 9928|Megafon
 99290|Megafon
-992917|Tacom
+992911|Beeline
+992915|Beeline
+992917|Beeline
 992918|Babilon-M
 992919|Tacom
 99292|Tcell

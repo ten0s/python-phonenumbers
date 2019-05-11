@@ -12,10 +12,10 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-96650|Al Jawal (STC)
-96653|Al Jawal (STC)
+96650|Al Jawal
+96653|Al Jawal
 96654|Mobily
-96655|Al Jawal (STC)
+96655|Al Jawal
 96656|Mobily
 966570|Virgin
 966571|Virgin

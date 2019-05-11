@@ -12,23 +12,23 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-37060|Tele 2
+37060|Tele2
 37061|Omnitel
 37062|Omnitel
 37064|BITĖ
-370645|Tele 2
-370646|Tele 2
-370647|Tele 2
-370648|Tele 2
+370645|Tele2
+370646|Tele2
+370647|Tele2
+370648|Tele2
 37065|BITĖ
 370660|BITĖ
 370662|Omnitel
-37067|Tele 2
+37067|Tele2
 370680|Omnitel
 370681|BITĖ
 370682|Omnitel
-370683|Tele 2
-370684|Tele 2
+370683|Tele2
+370684|Tele2
 370685|BITĖ
 370686|Omnitel
 370687|Omnitel

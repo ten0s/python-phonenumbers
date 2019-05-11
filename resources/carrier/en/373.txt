@@ -34,7 +34,7 @@
 37368|Orange
 37369|Orange
 37376|Moldcell
-37377|IDC
+37377|Moldtelecom
 373780|Moldcell
 373781|Moldcell
 373782|Moldcell

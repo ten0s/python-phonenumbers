@@ -52,7 +52,9 @@
 
 33642|Orange
 33643|Orange
-33644|Orange
+
+33644|SFR
+
 33645|Orange
 
 33646|SFR
@@ -101,7 +103,7 @@
 
 33752|SFR
 
-33753|Free Mobile
+33753|LycaMobile
 
 33754|Bouygues
 33755|Bouygues

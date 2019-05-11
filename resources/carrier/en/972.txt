@@ -16,7 +16,7 @@
 97251|Xphone
 97252|Cellcom
 97253|Hot Mobile
-97254|Orange
+97254|Partner
 972550|Beezz
 9725522|Home Cellular
 9725523|Home Cellular

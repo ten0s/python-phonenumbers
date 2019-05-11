@@ -12,7 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+97431|ooredoo
 97433|ooredoo
+97450|ooredoo
 97455|ooredoo
 97466|ooredoo
 97477|Vodafone
